@@ -1,0 +1,23 @@
+const vcard = [
+    {
+        id:1,
+        name:'jay',
+        contact:'8271669612',
+        city:'purnea',
+        salary:25000
+    },
+    {
+        id:2,
+        name:'prince',
+        contact:'8271669612',
+        city:'purnea',
+        salary:28000
+    },
+    {
+        id:3,
+        name:'anish',
+        contact:'8271669612',
+        city:'purnea',
+        salary:30000
+    },
+]
